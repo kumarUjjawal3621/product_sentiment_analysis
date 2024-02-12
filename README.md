@@ -1,7 +1,3 @@
-# Amazon-Alexa-Reviews
-
-## Watch Video: https://www.youtube.com/watch?v=6A2w-KYG4Ko
-
 ## HOW TO RUN
 
 Step 1: Clone the repository
